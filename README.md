@@ -2,7 +2,7 @@
 FIntech Hackathon Project from April 21th, 2018
 
 ## Data Set 
-***
+
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 
 There are 24 features:
