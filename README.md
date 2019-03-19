@@ -1,4 +1,4 @@
-## Fintech-Hackathon-Project
+## Fintech Hackathon Project
 FIntech Hackathon Project from April 21th, 2018
 
 ## Data Set 
@@ -47,3 +47,11 @@ There are 24 features:
 - default.payment.next.month: Default payment (1=yes, 0=no)
 
 ***
+
+## Hackathon Result 
+
+**Won first place with ROC and Recall 80%.**
+https://www.credential.net/2u3vyimu/sso?code=4894
+
+**Presentation:**
+https://prezi.com/p/u7gonyvlmslg/fintech/
