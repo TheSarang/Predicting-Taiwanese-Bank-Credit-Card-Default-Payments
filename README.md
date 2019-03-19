@@ -1,7 +1,7 @@
 Content:
 [Fintech Hackathon Project](#Fintech_Hackathon_Project)
 
-## Fintech Hackathon Project<a name="Fintech_Hackathon_Project"></a>
+## <a name="Fintech_Hackathon_Project"></a> Fintech Hackathon Project
 FIntech Hackathon Project from April 21th, 2018
 
 ## Data Set 
