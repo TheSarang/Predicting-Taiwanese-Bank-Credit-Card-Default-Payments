@@ -1,10 +1,11 @@
-Content:
+Table of Contents:
 [Fintech Hackathon Project](#Fintech_Hackathon_Project)
-
+[Data Set](#Data_Set)
+[Links](#Links)
 ## <a name="Fintech_Hackathon_Project"></a> Fintech Hackathon Project
 FIntech Hackathon Project from April 21th, 2018
 
-## Data Set 
+## <a name="Data_Set"></a> Data Set 
 
 This dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 
@@ -51,7 +52,7 @@ There are 24 features:
 
 ***
 
-## Hackathon Result 
+## <a name="Links"></a> Hackathon Result 
 
 **Won first place with ROC = 0.78 and Recall = 0.73%:**
 https://www.credential.net/2u3vyimu/sso?code=4894
