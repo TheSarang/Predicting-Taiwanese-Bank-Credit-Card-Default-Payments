@@ -1,7 +1,7 @@
 Table of Contents:
-[Fintech Hackathon Project](#Fintech_Hackathon_Project)
-[Data Set](#Data_Set)
-[Links](#Links)
++ [Fintech Hackathon Project](#Fintech_Hackathon_Project) </br>
++ [Data Set](#Data_Set) </br>
++ [Hackathon Result and Links](#Links) </br>
 ## <a name="Fintech_Hackathon_Project"></a> Fintech Hackathon Project
 FIntech Hackathon Project from April 21th, 2018
 
