@@ -54,7 +54,7 @@ There are 24 features:
 
 ## <a name="Links"></a> Hackathon Result 
 
-**Won first place with ROC = 0.78 and Recall = 0.73%:**
+**Won first place with ROC = 0.78 and Recall = 0.73:**
 https://www.credential.net/2u3vyimu/sso?code=4894
 
 **Presentation:**
