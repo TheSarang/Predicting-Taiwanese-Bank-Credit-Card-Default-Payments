@@ -1,4 +1,4 @@
-Table of Contents:
+## Table of Contents:
 + [Fintech Hackathon Project](#Fintech_Hackathon_Project) </br>
 + [Data Set](#Data_Set) </br>
 + [Hackathon Result and Links](#Links) </br>
