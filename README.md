@@ -1,9 +1,7 @@
 ## Table of Contents:
-+ [Fintech Hackathon Project](#Fintech_Hackathon_Project) </br>
 + [Data Set](#Data_Set) </br>
-+ [Hackathon Result and Links](#Links) </br>
-## <a name="Fintech_Hackathon_Project"></a> Fintech Hackathon Project
-FIntech Hackathon Project from April 21th, 2018
++ [Result](#Result) </br>
+Predicting Taiwanese Bank Default Payments
 
 ## <a name="Data_Set"></a> Data Set 
 
@@ -52,10 +50,6 @@ There are 24 features:
 
 ***
 
-## <a name="Links"></a> Hackathon Result 
+## <a name="Result"></a> Result 
 
-**Won first place with ROC = 0.78 and Recall = 0.73:**
-https://www.credential.net/2u3vyimu/sso?code=4894
-
-**Presentation:**
-https://prezi.com/p/u7gonyvlmslg/fintech/
+On test set: ROC = 0.78 and Recall = 0.73:
