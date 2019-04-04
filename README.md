@@ -1,4 +1,4 @@
-# Predicting Taiwanese Bank Default Payments
+# Predicting Taiwanese Bank Credit Card Default Payments
 
 ## Table of Contents:
 + [Data Set](#Data_Set) </br>
