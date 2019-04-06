@@ -53,4 +53,4 @@ There are 24 features:
 
 ## <a name="Result"></a> Result 
 
-On test set: ROC = 0.78 and Recall = 0.73:
+On test set: Recall = 0.73 and ROC = 0.78.
