@@ -2,7 +2,7 @@
 
 ## Table of Contents:
 + [Data Set](#Data_Set) </br>
-+ [Result](#Result) </br>
++ [Result](#Results) </br>
 
 ## <a name="Data_Set"></a> Data Set 
 
@@ -47,9 +47,8 @@ There are 24 features:
 
 **Target Variable**
 - default.payment.next.month: Default payment (1=yes, 0=no)
-
 ***
 
-## <a name="Result"></a> Result 
+## <a name="Results"></a> Result
 
 On test set: Recall = 0.73 and ROC = 0.78.
