@@ -46,7 +46,7 @@ There are 24 features:
 - PAY_AMT6: Amount of previous payment in April, 2005 (NT dollar)
 
 **Target Variable**
-- default.payment.next.month: Default payment (1=yes, 0=no)
+- default payment next month: Default payment (1=yes, 0=no)
 ***
 
 ## <a name="Results"></a> Result
