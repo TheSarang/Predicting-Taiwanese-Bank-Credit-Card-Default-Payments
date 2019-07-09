@@ -20,7 +20,7 @@ There are 24 features:
 
 **Repayment Status for past 6 months**
 
-**(-1 = pay duly, 1 = payment delay for one month, 2 = payment delay for two months,..., 9 = payment delay for nine months and above)**
+**(-1 = pay duly, 1 = payment delay for one month, 2 = payment delay for two months, ..., 9 = payment delay for nine months and above)**
 - PAY_0: Repayment status in September, 2005 
 - PAY_2: Repayment status in August, 2005 (scale same as above)
 - PAY_3: Repayment status in July, 2005 (scale same as above)
