@@ -12,7 +12,7 @@ There are 24 features:
 
 **Demographic Information**
 - ID: ID of each client
-- LIMIT_BAL: Amount of given credit in NT dollars (includes individual and family/supplementary credit)
+- LIMIT_BAL: Amount of given credit in NT dollars (includes individual and family / supplementary credit)
 - SEX: Gender (1=male, 2=female)
 - EDUCATION: (1=graduate school, 2=university, 3=high school, 4=others, 5=unknown, 6=unknown)
 - MARRIAGE: Marital status (1=married, 2=single, 3=others)
