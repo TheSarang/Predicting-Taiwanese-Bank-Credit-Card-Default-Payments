@@ -49,7 +49,7 @@ There are 24 features:
 - default payment next month: Default payment (1=yes, 0=no)
 ***
 
-## <a name="Results"></a> Result
+## <a name="Results"> </a> Result
 
 On test set: 
 Recall = 73% and ROC = 78%.
