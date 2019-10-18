@@ -24,7 +24,7 @@ There are 24 features:
 - PAY_0: Repayment status in September, 2005 
 - PAY_2: Repayment status in August, 2005 (scale same as above)
 - PAY_3: Repayment status in July, 2005 (scale same as above)
-- PAY_4: Repayment status in June, 2005 (scale same as above)
+- PAY_4: Repayment status in June, 2005 (scale same as above) 
 - PAY_5: Repayment status in May, 2005 (scale same as above)
 - PAY_6: Repayment status in April, 2005 (scale same as above)
 
