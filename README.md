@@ -7,7 +7,7 @@
 ## <a name="Data_Set"></a> Data Set 
 
 This dataset contains information on default payments, demographic factors, credit data, payment history, and bill statements of credit card clients in Taiwan from April to September of 2005.
-
+ 
 There are 24 features:
  
 **Demographic Information**
